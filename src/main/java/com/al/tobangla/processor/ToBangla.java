@@ -8,7 +8,7 @@ import java.util.Locale;
 
 /**
  * @author al.noman.uap@gmail.com
- * @see en to bn conversions date, time, calendar, ordinal indicator, amount, numbers
+ * @see en-us to bn conversions date, time, calendar, ordinal indicator, amount, numbers
  */
 public class ToBangla {
 
