@@ -1,0 +1,7 @@
+/build
+/.gradle/
+/.idea/
+/gradlew.bat
+/local.properties
+/tobangla-gradle.iml
+/tobangla.iml
