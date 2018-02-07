@@ -6,3 +6,13 @@
 /gradlew.bat
 /local.properties
 /Test.iml
+/tobangla/.idea/*
+/tobangla/gradle/*
+/tobangla/build/*
+/tobangla/.gradle/*
+/tobangla/gradlew
+/tobangla/gradlew.bat
+/tobangla/local.properties
+/tobangla/tobangla.iml
+/sample-app/build/*
+/sample-app/sample-app.iml
